@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="538.2pt" height="430.755431pt" viewBox="0 0 538.2 430.755431" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-14T17:17:12.309828</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 430.755431 
+L 538.2 430.755431 
+L 538.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 36.5814 134.502071 
+L 501.6186 134.502071 
+Q 509.1516 134.502071 509.1516 128.680871 
+L 509.1516 75.901991 
+Q 509.1516 70.080791 501.6186 70.080791 
+L 36.5814 70.080791 
+Q 29.0484 70.080791 29.0484 75.901991 
+L 29.0484 128.680871 
+Q 29.0484 134.502071 36.5814 134.502071 
+z
+" clip-path="url(#pa289c20fed)" style="fill: #f6f8fc; stroke: #e1e6ef; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 269.1 136.114366 
+Q 269.1 142.459278 269.1 147.12714 
+" clip-path="url(#pa289c20fed)" style="fill: none; stroke: #8794ad; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 271.7 141.92714 
+L 269.1 147.12714 
+L 266.5 141.92714 
+z
+" clip-path="url(#pa289c20fed)" style="fill: #8794ad; stroke: #8794ad; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 36.5814 215.998871 
+L 501.6186 215.998871 
+Q 509.1516 215.998871 509.1516 210.177671 
+L 509.1516 157.398791 
+Q 509.1516 151.577591 501.6186 151.577591 
+L 36.5814 151.577591 
+Q 29.0484 151.577591 29.0484 157.398791 
+L 29.0484 210.177671 
+Q 29.0484 215.998871 36.5814 215.998871 
+z
+" clip-path="url(#pa289c20fed)" style="fill: #f6f8fc; stroke: #e1e6ef; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 269.1 217.611166 
+Q 269.1 223.956078 269.1 228.62394 
+" clip-path="url(#pa289c20fed)" style="fill: none; stroke: #8794ad; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 271.7 223.42394 
+L 269.1 228.62394 
+L 266.5 223.42394 
+z
+" clip-path="url(#pa289c20fed)" style="fill: #8794ad; stroke: #8794ad; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 36.5814 297.495671 
+L 501.6186 297.495671 
+Q 509.1516 297.495671 509.1516 291.674471 
+L 509.1516 238.895591 
+Q 509.1516 233.074391 501.6186 233.074391 
+L 36.5814 233.074391 
+Q 29.0484 233.074391 29.0484 238.895591 
+L 29.0484 291.674471 
+Q 29.0484 297.495671 36.5814 297.495671 
+z
+" clip-path="url(#pa289c20fed)" style="fill: #f6f8fc; stroke: #e1e6ef; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 269.1 299.107966 
+Q 269.1 305.452878 269.1 310.12074 
+" clip-path="url(#pa289c20fed)" style="fill: none; stroke: #8794ad; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 271.7 304.92074 
+L 269.1 310.12074 
+L 266.5 304.92074 
+z
+" clip-path="url(#pa289c20fed)" style="fill: #8794ad; stroke: #8794ad; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 36.5814 378.992471 
+L 501.6186 378.992471 
+Q 509.1516 378.992471 509.1516 373.171271 
+L 509.1516 320.392391 
+Q 509.1516 314.571191 501.6186 314.571191 
+L 36.5814 314.571191 
+Q 29.0484 314.571191 29.0484 320.392391 
+L 29.0484 373.171271 
+Q 29.0484 378.992471 36.5814 378.992471 
+z
+" clip-path="url(#pa289c20fed)" style="fill: #f6f8fc; stroke: #e1e6ef; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17233c" x="18" y="32.437031" transform="rotate(-0 18 32.437031)">Routine tissue to a development decision</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5c6780" x="18" y="52.617191" transform="rotate(-0 18 52.617191)">Proposed application informed by computational-pathology research</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17233c" x="50.643" y="91.813271" transform="rotate(-0 50.643 91.813271)">1  Define the information gap</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5c6780" x="50.643" y="113.545751" transform="rotate(-0 50.643 113.545751)">Prognostic risk, a biomarker hypothesis or assay prioritization</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17233c" x="50.643" y="173.310071" transform="rotate(-0 50.643 173.310071)">2  Test the image-derived signal</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5c6780" x="50.643" y="195.042551" transform="rotate(-0 50.643 195.042551)">Patient-level separation · independent cohorts · uncertainty</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17233c" x="50.643" y="254.806871" transform="rotate(-0 50.643 254.806871)">3  Establish the intended use</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5c6780" x="50.643" y="276.539351" transform="rotate(-0 50.643 276.539351)">Prognostic risk does not establish differential treatment benefit</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17233c" x="50.643" y="336.303671" transform="rotate(-0 50.643 336.303671)">4  Decide whether to expand</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5c6780" x="50.643" y="358.036151" transform="rotate(-0 50.643 358.036151)">Value of added information vs. validation and implementation cost</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa289c20fed">
+   <rect x="18" y="24.675431" width="502.2" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>

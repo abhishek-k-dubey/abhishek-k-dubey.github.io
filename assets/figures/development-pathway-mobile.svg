@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="480" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+<title id="title">Drug development pathway</title>
+<desc id="desc">Discovery and preclinical work lead to Phase 1, Phase 2, Phase 3 and registration. Clinical development and evidence strategy are Abhishek Dubey’s focus. Stages can overlap.</desc>
+<defs><marker id="forward" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#70839e"/></marker></defs>
+<rect width="360" height="480" fill="white"/>
+<path d="M180 81V97" fill="none" stroke="#70839e" stroke-width="2.6" stroke-linecap="round" marker-end="url(#forward)"/>
+<rect x="8" y="8" width="344" height="72" rx="10" fill="#f6f8fc" stroke="#dde3ed" stroke-width="1.5"/>
+<text x="24" y="51" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" text-anchor="start" fill="#52627b">Discovery</text>
+<text x="184" y="38" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">Molecule &amp;</text>
+<text x="184" y="62" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">preclinical work</text>
+<path d="M180 177V193" fill="none" stroke="#70839e" stroke-width="2.6" stroke-linecap="round" marker-end="url(#forward)"/>
+<rect x="8" y="104" width="344" height="72" rx="10" fill="#eef3ff" stroke="#c0d1f1" stroke-width="1.5"/>
+<text x="24" y="147" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" text-anchor="start" fill="#315fbd">Phase 1</text>
+<text x="184" y="134" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">Safety &amp;</text>
+<text x="184" y="158" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">exposure</text>
+<path d="M180 273V289" fill="none" stroke="#70839e" stroke-width="2.6" stroke-linecap="round" marker-end="url(#forward)"/>
+<rect x="8" y="200" width="344" height="72" rx="10" fill="#eef3ff" stroke="#c0d1f1" stroke-width="1.5"/>
+<text x="24" y="243" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" text-anchor="start" fill="#315fbd">Phase 2</text>
+<text x="184" y="230" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">Dose &amp;</text>
+<text x="184" y="254" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#52627b">early benefit</text>
+<path d="M180 369V385" fill="none" stroke="#70839e" stroke-width="2.6" stroke-linecap="round" marker-end="url(#forward)"/>
+<rect x="8" y="296" width="344" height="72" rx="10" fill="#eef3ff" stroke="#c0d1f1" stroke-width="1.5"/>
+<text x="24" y="339" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" text-anchor="start" fill="#315fbd">Phase 3</text>
+<text x="184" y="326" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">Confirm</text>
+<text x="184" y="350" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">benefit–risk</text>
+<rect x="8" y="392" width="344" height="72" rx="10" fill="#eef3ff" stroke="#c0d1f1" stroke-width="1.5"/>
+<text x="24" y="435" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" text-anchor="start" fill="#315fbd">Registration</text>
+<text x="184" y="422" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">Evidence</text>
+<text x="184" y="446" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#52627b">review</text>
+</svg>
